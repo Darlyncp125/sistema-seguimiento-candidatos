@@ -38,3 +38,7 @@ Este formato permite recopilar la información de las personas que participan en
 | Competencias |análisis de hojas de vida,organización de entrevistas y manejo de bases de datos.|
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	30/10/2026 |
+
+## Observaciones del candidato
+
+Espacio para registrar observaciones relacionadas con el proceso de selección.
