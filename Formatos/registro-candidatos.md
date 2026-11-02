@@ -23,7 +23,7 @@ Este formato permite recopilar la información de las personas que participan en
 | Correo electrónico |Andresfl64@gmail.com|
 | Formación académica |Asistente de talento humano|
 | Experiencia laboral |1 año|
-| Competencias |organización, manejo de herramientas ofimáticas,atención al detalle.             |             
+| Competencias |manejo de herramientas ofimáticas,organización de entrevistas, trabajo en equipo|             
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	23/10/2026 |
 
