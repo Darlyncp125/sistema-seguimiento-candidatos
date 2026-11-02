@@ -19,3 +19,5 @@ Diseñar un sistema de seguimiento de candidatos que facilite el registro, la or
 ## Herramientas utilizadas
 - Trello: planificación y organización de las actividades.
 - GitHub: almacenamiento de archivos, registro de avances y control de versiones.
+## Integrantes
+Darllyn Jasury Centeno Peña
