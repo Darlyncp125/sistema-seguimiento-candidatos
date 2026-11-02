@@ -10,7 +10,7 @@ Este formato permite recopilar la información de las personas que participan en
 | Correo electrónico |jesus.ramirezH@gmail.com|
 | Formación académica |Técnico en Gestión Administrativa|
 | Experiencia laboral |2 años |
-| Competencias |Comunicación, organización y trabajo en equipo |
+| Competencias |Comunicación,elaboración y organización de documentos administrativos y reuniones|
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	19/10/2026 
 
@@ -23,7 +23,7 @@ Este formato permite recopilar la información de las personas que participan en
 | Correo electrónico |Andresfl64@gmail.com|
 | Formación académica |Asistente de talento humano|
 | Experiencia laboral |1 año|
-| Competencias |Comunicación asertiva,organización,manejo de herramientas ofimáticas|
+| Competencias |organización, manejo de herramientas ofimáticas,atención al detalle.             |             
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	23/10/2026 |
 
