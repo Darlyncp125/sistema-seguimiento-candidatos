@@ -12,4 +12,31 @@ Este formato permite recopilar la información de las personas que participan en
 | Experiencia laboral |2 años |
 | Competencias |Comunicación, organización y trabajo en equipo |
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
-| Fecha de registro |	19/10/2026 |
+| Fecha de registro |	19/10/2026 
+
+
+| Campo | Información |
+|---|---|
+| Nombre completo |Andrés Felipe López|
+| Documento de identidad |1061699351|
+| Teléfono |3168963475|
+| Correo electrónico |Andresfl64@gmail.com|
+| Formación académica |Asistente de talento humano|
+| Experiencia laboral |1 año|
+| Competencias |Comunicación asertiva, organización, trabajo en equipo, manejo de herramientas ofimáticas, confidencialidad, atención al detalle y servicio al cliente. |
+| Vacante a la que se postula |Auxiliar de Recursos Humanos|
+| Fecha de registro |	23/10/2026 |
+
+| Campo | Información |
+|---|---|
+| Nombre completo |Camila Torres Ramírez|
+| Documento de identidad |1002874001|
+| Teléfono |3168963475|
+| Correo electrónico |torres.camila200@gmail.com|
+| Formación académica |Auxiliar de selección|
+| Experiencia laboral |8 meses|
+| Competencias |omunicación efectiva, análisis de hojas de vida, atención al detalle, capacidad de observación, organización de entrevistas, trabajo en equipo y manejo de bases de datos.|
+| Vacante a la que se postula |Auxiliar de Recursos Humanos|
+| Fecha de registro |	30/10/2026 |
+
+
