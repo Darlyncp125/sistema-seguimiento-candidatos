@@ -23,7 +23,9 @@ Este formato permite recopilar la información de las personas que participan en
 | Correo electrónico |Andresfl64@gmail.com|
 | Formación académica |Asistente de talento humano|
 | Experiencia laboral |1 año|
-| Competencias |Comunicación asertiva, organización, trabajo en equipo, manejo de herramientas ofimáticas, confidencialidad, atención al detalle y servicio al cliente. |
+| Competencias |Comunicación asertiva, organización,
+trabajo en equipo, manejo de herramientas ofimáticas, 
+confidencialidad, atención al detalle y servicio al cliente. |
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	23/10/2026 |
 
@@ -35,7 +37,10 @@ Este formato permite recopilar la información de las personas que participan en
 | Correo electrónico |torres.camila200@gmail.com|
 | Formación académica |Auxiliar de selección|
 | Experiencia laboral |8 meses|
-| Competencias |omunicación efectiva, análisis de hojas de vida, atención al detalle, capacidad de observación, organización de entrevistas, trabajo en equipo y manejo de bases de datos.|
+| Competencias |omunicación efectiva, análisis de hojas de 
+vida, atención al detalle, capacidad de observación, 
+organización de entrevistas, trabajo en equipo y manejo de 
+bases de datos.|
 | Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	30/10/2026 |
 
