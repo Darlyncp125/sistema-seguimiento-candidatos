@@ -11,5 +11,5 @@ Este formato permite recopilar la información de las personas que participan en
 | Formación académica |Técnico en Gestión Administrativa|
 | Experiencia laboral |2 años |
 | Competencias |Comunicación, organización y trabajo en equipo |
-| Vacante a la que se postula |Auxiliar administrativo|
+| Vacante a la que se postula |Auxiliar de Recursos Humanos|
 | Fecha de registro |	19/10/2026 |
